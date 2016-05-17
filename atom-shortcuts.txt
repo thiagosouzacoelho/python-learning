@@ -1,0 +1,5 @@
+ctrl + shift = p = list all possible actions in Atom
+
+ctrl + , = open preferences
+ctrl + ' = open/close terminal (from Terminal PLus package)
+ctrl + shift + m = open the markdown preview
